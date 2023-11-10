@@ -5,10 +5,10 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Paper title:
-NLP using ANN
+FedSL: Federated split learning on distributed sequential data in recurrent neural networks
 
 Link to the paper:
-https://ieeexplore......
+https://link.springer.com/article/10.1007/s11042-023-15184-5
 
 Group Number:
 27
