@@ -8,7 +8,7 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/.....
 
 Project title:
-
+Detecting Eye disease
 
 Group Number:
 27
