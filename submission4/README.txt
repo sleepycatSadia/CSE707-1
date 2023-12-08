@@ -1,5 +1,5 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/9248338581ysdqhqtfjdjf#433326
 
 Unlisted YouTube video:
 http://youtube....
@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Detection of Ocular disease using Federated Learning
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
