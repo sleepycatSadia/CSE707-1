@@ -11,7 +11,7 @@ Paper title:
 Detection of Ocular disease using Federated Learning
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1BbHWbKjO5BMSPcyPM7FvUNHBZK3N3yvsuqBRCACELzk/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 25 October 1999
