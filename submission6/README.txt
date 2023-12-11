@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Detection of Ocular disease using Federated Learning
+Detection of Ocular disease using Transfer and Federated Learning
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1BbHWbKjO5BMSPcyPM7FvUNHBZK3N3yvsuqBRCACELzk/edit?usp=sharing
